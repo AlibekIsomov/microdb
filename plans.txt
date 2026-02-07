@@ -1,0 +1,8 @@
+This is MicroDB, it is build from sratch random programmer to learn little bit about databases at low-lewel
+
+1. It works statically with file's only
+2. Functionally:
+   create table,
+   insert columns,
+   delete table.
+   select columns
